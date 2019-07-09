@@ -1,5 +1,5 @@
 package com.woniu.dao;
 
-public class IUserDAO {
+public interface IUserDAO {
 
 }
